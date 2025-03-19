@@ -16,14 +16,14 @@ Este é um simples gerenciador de tarefas (To-Do List) que permite adicionar, ed
 
 ## Como Rodar o Projeto
 
-### 1. Clone o repositório
+1. Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/Lista-de-Tarefas.git
 cd Lista-de-Tarefas
 
-### 1. Clone o repositório
-### 2. Instale as dependências do backend
+
+2. Instale as dependências do backend
 No diretório do backend, instale as dependências necessárias.
 
 bash
@@ -32,7 +32,7 @@ Editar
 cd backend
 npm install
 
-### 3. Execute o servidor
+3. Execute o servidor
 Para rodar o servidor localmente, execute:
 
 bash
@@ -41,7 +41,7 @@ Editar
 node server.js
 O servidor estará rodando na porta 3000, a menos que você tenha configurado outra porta.
 
-### 4. Acesse a aplicação
+4. Acesse a aplicação
 Agora, abra seu navegador e acesse o frontend do projeto (geralmente na mesma pasta onde está o index.html).
 
 Como Contribuir
