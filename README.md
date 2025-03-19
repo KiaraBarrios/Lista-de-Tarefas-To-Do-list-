@@ -22,6 +22,7 @@ Este é um simples gerenciador de tarefas (To-Do List) que permite adicionar, ed
 git clone https://github.com/seu-usuario/Lista-de-Tarefas.git
 cd Lista-de-Tarefas
 
+### 1. Clone o repositório
 ### 2. Instale as dependências do backend
 No diretório do backend, instale as dependências necessárias.
 
